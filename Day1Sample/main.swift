@@ -52,4 +52,10 @@ SubOperator()
 Multiply()
 division()
 
+func recursionForName(){
+    for item in 1...10 {
+        print("let start the code: ",item)
+    }
+}
 
+recursionForName()
