@@ -23,7 +23,7 @@ print(Int.max,Int.min)
 var a = 10;
 var b = 20;
 
-
+// clone from github
  func AddOperator(){
     var c : Int
    c = a+b
