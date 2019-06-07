@@ -23,7 +23,7 @@ print(Int.max,Int.min)
 var a = 10;
 var b = 20;
 
-// clone from github
+// this is github
  func AddOperator(){
     var c : Int
    c = a+b
@@ -57,5 +57,7 @@ func recursionForName(){
         print("let start the code: ",item)
     }
 }
+
+
 
 recursionForName()
